@@ -17,7 +17,7 @@ This project presents a fully interactive Web Marketing KPI dashboard built usin
 
 ## Demo
 
-[*Add a screenshot or GIF of your dashboard here.*](https://github.com/vishwaschaudhary/Web-Marketing-Dashboard/blob/main/Screenshot%202025-09-23%20161206.png)
+![Dashboard Screenshot](https://github.com/vishwaschaudhary/Web-Marketing-Dashboard/blob/main/Screenshot%202025-09-23%20161206.png)
 
 ## Dataset
 
