@@ -28,33 +28,12 @@ The dashboard uses a sample marketing analytics dataset with:
 - Date
 - Device category
 - Page title
-- Sessions, Exits, Bounces, Unique Page Views, Avg Time on Page
+- Sessions
+- Exits
+- Bounces
+- Unique Page Views
+- Avg Time on Page
 
-*The dataset can be downloaded from this repository's `/data/` folder.*
-
-## Getting Started
-
-### Prerequisites
-
-- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-
-
-### Setup Instructions
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/vishwaschaudhary/Web-Marketing-Dashboard.git
-cd Web-Marketing-Dashboard
-```
-
-2. **Download sample dataset:**
-    - Use the link provided in the `/data/` folder here.
-3. **Open the Power BI report:**
-    - Locate the `.pbit` file in the repository.
-    - Open it using Power BI Desktop.
-4. **Refresh or replace data:**
-    - If using your own web analytics data, map the relevant fields to the visuals provided.
 
 ## Dashboard Walkthrough
 
